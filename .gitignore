@@ -30,3 +30,6 @@ result-*
 
 # bacon diagnostics export
 .bacon-claude-diagnostics
+
+# Jig skills symlinked into .claude on devShell entry
+.claude/skills/
